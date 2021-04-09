@@ -1,4 +1,4 @@
-## RacingGame
+## Racing Game
 
 My first computer game using Unity.
 
