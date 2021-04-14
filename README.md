@@ -12,3 +12,4 @@ My first computer game using Unity.
 ### Racing Game Demo
 <img src="img/RacingGame.gif" width=700>
 
+---
